@@ -40,4 +40,4 @@ Particularly, if someone wants to take on creating a formatted report based on t
 
 ## LICENSE
 
-All of this material is licensed Creative Commons Share-Alike 4.0.  Full text of license here:
+All of this material is licensed Creative Commons Share-Alike 4.0.  [Full text of license here](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
